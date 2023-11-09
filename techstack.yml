@@ -1,0 +1,18 @@
+repo_name: joshbrooks/docker-leaflet
+report_id: fc6f8d834f4127865a785fc0ad2daf8c
+repo_type: Public
+timestamp: '2023-11-09T23:29:23+00:00'
+requested_by: joshbrooks
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
